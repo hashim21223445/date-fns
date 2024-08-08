@@ -9,7 +9,7 @@
     "test": "echo \"We're just testing if it builds atm\""
   },
   "dependencies": {
-    "date-fns": "^3.0.0",
+    "date-fns": "^3.6.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
