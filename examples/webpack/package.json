@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "gzip-size-cli": "^2.1.0",
-    "webpack": "^5.92.1",
+    "webpack": "^5.93.0",
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
