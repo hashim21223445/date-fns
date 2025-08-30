@@ -11,7 +11,7 @@
     "@rollup/plugin-node-resolve": "^15.2.1",
     "@rollup/plugin-terser": "^0.4.4",
     "gzip-size-cli": "^5.1.0",
-    "rollup": "^3.28.1"
+    "rollup": "^3.29.5"
   },
   "scripts": {
     "build": "npm run build-date-fns && npm run build-rollup",
