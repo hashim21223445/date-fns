@@ -16,6 +16,6 @@
     "test-locales": "test $(env TZ=UTC node ./locales.mjs) = true"
   },
   "dependencies": {
-    "jsdom": "^24.1.0"
+    "jsdom": "^24.1.1"
   }
 }
